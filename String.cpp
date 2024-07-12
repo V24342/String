@@ -24,6 +24,7 @@ String::String(const String& s) {
 
 String::~String() {
 	delete[] str;
+	len = 0;
 }
 
 String String::operator+(const String& s) const {
