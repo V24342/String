@@ -29,7 +29,7 @@ int main() {
 	cout << "s3: " << s3 << endl;
 	cout << "s4: " << s4 << endl;
 	cout << "s5: " << s5 << endl;
-	cout << "s1的长度为: " << s1.length() << endl;
+	cout << "s1鐨勯暱搴︿负: " << s1.length() << endl;
 	cout << "s1[2] = " << s1[2] << endl;
 	String s6 = s1 += (s4);
 	cout << "s6: " << s6 << endl;
